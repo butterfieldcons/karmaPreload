@@ -1,15 +1,20 @@
 # karmaPreload
 
-. clone the project (https://github.com/butterfieldcons/karmaPreload.git)
+<b>Getting started</b>
 
-. open a node command prompt
-
-. type 'npm install'
-
-. type 'karma start'
+<ul>
+<li>clone the project (https://github.com/butterfieldcons/karmaPreload.git)</li>
+<li>open a node command prompt</li>
+<li>type 'npm install'</li>
+<li>type 'karma start'</li>
+</ul>
 
 <b>The above runs with no errors</b>
 
 <b>To see the type error</b>
-uncomment //var angular2_1 = require('angular2/angular2');
-in  karmaPreload/src/appointments/appointments.js
+
+<ul>
+<li>uncomment //var angular2_1 = require('angular2/angular2');</li>
+<li>in  karmaPreload/src/appointments/appointments.js</li>
+</ul>
+
