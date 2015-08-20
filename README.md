@@ -10,4 +10,6 @@
 
 <b>The above runs with no errors</b>
 
-uncomment
+<b>To see the type error</b>
+uncomment //var angular2_1 = require('angular2/angular2');
+in  karmaPreload/src/appointments/appointments.js
